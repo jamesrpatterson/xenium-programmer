@@ -10,7 +10,7 @@ echo -e ' ░    ░     ░      ░   ░ ░  ▒kooscode@github   ░   '
 echo -e ' ░    ░     ░  ░         ░  ░     ░            ░   '
 
 # Paths to default Firmware and XeniumOS files
-XENIUM_OS=xenium-bin/xenium_blue.bin
+XENIUM_OS=xenium-bin/prometheos.bin
 XENIUM_JED=xenium-bin/openxenium.jed
 FLASH_JED=xenium-bin/xeniumflash.jed
 
